@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi There 👋
+
+My name is Daniel Daszkiewicz, my focus is Cybersecurity but in my free time, I try to practice programming in NodeJS and C#. I try to focus on improving hands on skills by developing CTF challenges and competing in challenges with a focus on web/api security. 
 
 <!--
 **dd482IT/dd482IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
